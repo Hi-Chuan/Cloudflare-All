@@ -3,5 +3,5 @@
 ### 安装部署
 
 ```yml
-bash <(curl -Ls https://raw.githubusercontent.com/hfboys/cloudflare-argo/main/install-argo.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Hi-Chuan/Cloudflare-All/main/install-argo.sh)
 ```
